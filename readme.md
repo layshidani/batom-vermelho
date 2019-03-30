@@ -1,5 +1,9 @@
 # Hackendo a desigualdade
 
+Protótipo:
+
+[Protótipo](https://marvelapp.com/45ddie5
+
 ![Hacking](src/imgs/hacking.png)
 
 ***"Nenhuma mulher deve esquecer que ela não precisa de ninguém que não precise dela."*** --Marilyn Monroe
@@ -86,7 +90,7 @@ Na imagem abaixo podemos conferir
 
 Hoje, existem diversas redes sociais, porém são mais voltadas para tratar o lado 'bom' e 'bonito' da vida. Em diversos momentos, precisamos desabafar e conseguir apoio, pois estamos vuneráveis, inseguras, e é necessário um ambiente onde possamos nos sentir mais acolhidas e encorajadas para que possamos nos abrir.
 
-Precisamos de empatia, de outras histórias, de apoio, para que possamos nos 
+Precisamos de empatia, de outras histórias, de apoio, para que possamos nos sentir mais fortes e recuperar nossa segunça emocional para dar os próximos passos.
 
 ## Personas
 
@@ -114,13 +118,13 @@ Para que as mulheres tenham ainda mais segurança, possibilita-se o uso de avata
 
 **Batom vermelho**: informação, apoio e empoderamento feminino em suas mãos:
 
-![logotipo Batom Vermelho](xxx)
+![logotipo Batom Vermelho](src/imgs/logotipo.jpeg)
 
 Com o simples uso do batom, muitas vezes renegado por se ter medo ou vergonha em atrair muita atenção conseguimos trazer força para encararmos nosso dia-a-dia e com essa força nos unir com mulheres com o movimento #hojeédiadebatomvermelho mostrando que podemos fazer o que quisermos, na hora e no dia que quisermos sem ter medo, vergonha ou pensar em alguém antes de si mesma.
 
-Protótipo de postagem:
+Protótipo:
 
-xxx
+[Protótipo](https://marvelapp.com/45ddie5)
 
 ### Quem somos nós?
 
@@ -143,7 +147,7 @@ Na Batom Vermelho, você vai encontrar uma rede de mulheres como você, para que
 
 ## Todo dia é dia de batom vermelho!
 
-Junte sua voz à nossa! Se inscreva agora mesmo: [**Batom vermelho**]().
+Junte sua voz à nossa! Se inscreva agora mesmo: [**Batom vermelho**](https://marvelapp.com/45ddie5).
 
 
 
