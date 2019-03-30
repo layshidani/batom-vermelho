@@ -9,17 +9,20 @@
 ---
 
 ## Sumário
-* [O Problema](#O-Problema)
-* [Mulheres e as redes sociais](#Mulheres-e-as-redes-sociais)
+* [Alguns-dados](#Alguns-dados)
+  * [Mulheres e as redes sociais](#Mulheres-e-as-redes-sociais)
   * [As mulheres dominam todas as mídias sociais](#As-mulheres-dominam-todas-as-mídias-sociais)
   * [As redes sociais mais usadas no Brasil](#As-redes-sociais-mais-usadas-no-Brasil)
   * [Tempo médio gasto com mídias](#Tempo-médio-gasto-com-mídias)
   * [Taxas médias de engajamento](#Taxas-médias-de-engajamento)
+* [O Problema](#O-Problema)
+* [Personas](#Personas)
 * [Solução](#Solução)
   * [Quem somos nós?](#Quem-somos-nós?)
 * [Todo dia é dia de batom vermelho!](#Todo-dia-é-dia-de-batom-vermelho!)
 
-## O Problema
+
+## Alguns dados
 
 Veja alguns dados de uma [pesquisa](https://www.ipsos.com/sites/default/files/ct/news/documents/2019-03/international-womens-day-2019-global-attitudes-towards-gender-equality.pdf) realizada pelo instituto [IPSOS](https://www.ipsos.com/en) para o Dia Internacional da Mulher de 2019:
 
@@ -77,6 +80,13 @@ Na imagem abaixo podemos conferir
 
 ### Taxas médias de engajamento:
 ![taxas médias de engajamento](src/dados/engajamento-facebook.jpg)
+
+
+## O Problema
+
+Hoje, existem diversas redes sociais, porém são mais voltadas para tratar o lado 'bom' e 'bonito' da vida. Em diversos momentos, precisamos desabafar e conseguir apoio, pois estamos vuneráveis, inseguras, e é necessário um ambiente onde possamos nos sentir mais acolhidas e encorajadas para que possamos nos abrir.
+
+Precisamos de empatia, de outras histórias, de apoio, para que possamos nos 
 
 ## Personas
 
