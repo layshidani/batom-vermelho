@@ -80,6 +80,11 @@ Na imagem abaixo podemos conferir
 
 ## Personas
 
+Persona 1
+![Persona 1 - Isabella](src/imgs/persona-isabella.png)
+
+Persona 2
+![Persona 2 - anônima](src/imgs/persona-anonima.png)
 
 ## Solução
 
