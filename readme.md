@@ -1,7 +1,5 @@
 # Hackendo a desigualdade
 
-Protótipo:
-
 [Protótipo](https://marvelapp.com/45ddie5)
 
 ![Hacking](src/imgs/hacking.png)
